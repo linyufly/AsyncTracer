@@ -24,7 +24,8 @@ Last Update		:	October 31st, 2013
 //const char *configurationFile = "RungeKutta4ForTCPC.conf";
 //const char *configurationFile = "RungeKutta4ForUpperVasc.conf";
 //const char *configurationFile = "RungeKutta4ForAR2.conf";
-const char *configurationFile = "RungeKutta4ForDoubleGyre3D.conf";
+//const char *configurationFile = "RungeKutta4ForDoubleGyre3D.conf";
+const char *configurationFile = "RungeKutta4ForPatient96.conf";
 const char *tetrahedronBlockIntersectionKernel = "lcsTetrahedronBlockIntersectionKernel.cl";
 const char *initialCellLocationKernel = "lcsInitialCellLocationKernel.cl";
 const char *bigBlockInitializationKernel = "lcsBigBlockInitializationKernel.cl";
